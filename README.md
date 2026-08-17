@@ -1,5 +1,9 @@
 # Amlal's Talks
 
+### Notice:
+
+As of 17/08/2026, the open-access talks have been archived, the future publications will be made available on pub.ne-app.eu.
+
 ## Similar Works:
 
 * https://github.com/open-cpp-libraries/core
