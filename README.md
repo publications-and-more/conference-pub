@@ -3,6 +3,7 @@
 ### Notice:
 
 As of 17/08/2026, the open-access talks have been archived, the future publications will be made available on pub.ne-app.eu.
+UPDATE: The talks repository has been unarchived for future conference talks and papers.
 
 ## Similar Works:
 
